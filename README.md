@@ -1,6 +1,6 @@
 # Waves
 
-![GitHub deployments](https://img.shields.io/github/deployments/cattrn/waves/react-waves-player?color=%2379589f&label=Heroku&style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/cattrn/waves?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/cattrn/waves?style=for-the-badge)
 
 This project was created using Dev Ed's [The Creative React and Redux Course](https://developedbyed.com/p/the-creative-react-and-redux-course) and was intended as a learning exercise. Some additional functionality was added but the majority of it can be built using this course's guidance. Incredible tutor, highly recommended.
 
